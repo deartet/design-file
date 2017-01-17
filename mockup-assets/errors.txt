@@ -1,0 +1,2 @@
+[1/17/2017, 9:15:03 PM] layer "map.png, 50% map.png": Duplicate path: map.png
+[1/17/2017, 9:15:03 PM] layer " ": Expected Either a default asset specification or a layer asset specification but " " found.
